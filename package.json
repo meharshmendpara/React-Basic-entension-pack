@@ -1,7 +1,7 @@
 {
-  "name": "harshreactextension",
-  "displayName": "harshreactextension",
-  "publisher": "harshMendpara",
+  "name": "MendparaDeveloperPack",
+  "displayName": "MendparaDeveloperPack",
+  "publisher": "HarshMendpara",
   "description": "This is all required Extension for Begginer of React Js Developer to start career.",
   "version": "0.0.1",
   "engines": {
